@@ -1,0 +1,101 @@
+[
+    [
+        "C:\\dev\\DXTrial\\force-app",
+        {
+            "sourcePath": "C:\\dev\\DXTrial\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1505959799388,
+            "changeTime": 1505959799388,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main",
+        {
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1505959799388,
+            "changeTime": 1505959799388,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1505962957859,
+            "changeTime": 1505962957859,
+            "contentHash": "8cb74eb324f735bd16f2bf66109ef3edb47deca9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1505959799389,
+            "changeTime": 1505959799389,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial",
+        {
+            "sourcePath": "C:\\dev\\DXTrial",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1505961922804,
+            "changeTime": 1505961922804,
+            "contentHash": "7c74d9e2d36066ce8aa7233ce4d489ca005660f7",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default\\profiles\\Adviser.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\profiles\\Adviser.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4956,
+            "modifiedTime": 1505963549436,
+            "changeTime": 1505963549436,
+            "contentHash": "4e31178f6031dc2330d1593de9744a43b230a956"
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1505962957859,
+            "changeTime": 1505962957859,
+            "contentHash": "cf07aec283ab13f6a4853386f84c302b6e5b4b29",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]

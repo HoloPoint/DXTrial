@@ -2,14 +2,14 @@
     [
         "C:\\dev\\DXTrial\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\dev\\DXTrial\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1505959799388,
             "changeTime": 1505959799388,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\dev\\DXTrial\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\dev\\DXTrial\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1505959799388,
             "changeTime": 1505959799388,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,29 +32,27 @@
     [
         "C:\\dev\\DXTrial\\force-app\\main\\default",
         {
-            "state": "n",
             "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1505959799389,
-            "changeTime": 1505959799389,
-            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1505964289618,
+            "changeTime": 1505964289618,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\dev\\DXTrial\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1505959799389,
             "changeTime": 1505959799389,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,16 +60,185 @@
     [
         "C:\\dev\\DXTrial",
         {
-            "state": "n",
             "sourcePath": "C:\\dev\\DXTrial",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1505961922804,
             "changeTime": 1505961922804,
             "contentHash": "7c74d9e2d36066ce8aa7233ce4d489ca005660f7",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default\\profiles\\Adviser.profile-meta.xml",
+        {
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\profiles\\Adviser.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5068,
+            "modifiedTime": 1505964289620,
+            "changeTime": 1505964289620,
+            "contentHash": "7d1e1e09db3570bfab03fae85735c6a4e06f441a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1505964289623,
+            "changeTime": 1505964289623,
+            "contentHash": "67006eb64317d983174f3e64b7642f8122598158",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default\\objects\\Accreditation__c\\Accreditation__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\objects\\Accreditation__c\\Accreditation__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2208,
+            "modifiedTime": 1505964289614,
+            "changeTime": 1505964289614,
+            "contentHash": "4ab0c1f975260b74911c93ed5f4b181543476e0b"
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default\\layouts\\Accreditation__c-Accreditation Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\layouts\\Accreditation__c-Accreditation Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2794,
+            "modifiedTime": 1505965082492,
+            "changeTime": 1505965082492,
+            "contentHash": "956b784e2382593df03d28b4061054def35b8f72"
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 3993,
+            "modifiedTime": 1505964289619,
+            "changeTime": 1505964289619,
+            "contentHash": "221e5bdaf658b8dfdf008128384e0b7b3dc4b01e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 16803,
+            "modifiedTime": 1505964289621,
+            "changeTime": 1505964289621,
+            "contentHash": "f59cedc56c3c44022987f9d9eb337eadecb7a24d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4331,
+            "modifiedTime": 1505964289622,
+            "changeTime": 1505964289622,
+            "contentHash": "f7329fb0e9e8b328cbbc48cc68383d1e8c07f919",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 3993,
+            "modifiedTime": 1505964289623,
+            "changeTime": 1505964289623,
+            "contentHash": "221e5bdaf658b8dfdf008128384e0b7b3dc4b01e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default\\objects\\Accreditation__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\objects\\Accreditation__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1505965082490,
+            "changeTime": 1505965082490,
+            "contentHash": "cf188b3fbe1116447704b6b7c8ed186afc1643ee"
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1505964289613,
+            "changeTime": 1505964289613,
+            "contentHash": "ae877c305eab59d09cfe29e1f2cc1d668eddaac6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1505964289618,
+            "changeTime": 1505964289618,
+            "contentHash": "2c8b658a92eab3d1aed89f5fb7f09db443e26acf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default\\objects\\Accreditation__c\\fields\\Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\objects\\Accreditation__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 988,
+            "modifiedTime": 1505965082491,
+            "changeTime": 1505965082491,
+            "contentHash": "3e47fd06ac418d1139a4c1fcee13f372a437abc6"
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default\\objects\\Accreditation__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\objects\\Accreditation__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1505965082490,
+            "changeTime": 1505965082490,
+            "contentHash": "7546daeafe8869d18b37d2b8437a616c539efbd2"
         }
     ]
 ]
