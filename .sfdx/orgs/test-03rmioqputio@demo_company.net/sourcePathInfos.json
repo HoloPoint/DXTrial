@@ -114,14 +114,14 @@
     [
         "C:\\dev\\DXTrial\\force-app\\main\\default\\layouts\\Accreditation__c-Accreditation Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\layouts\\Accreditation__c-Accreditation Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2794,
             "modifiedTime": 1505965082492,
             "changeTime": 1505965082492,
-            "contentHash": "956b784e2382593df03d28b4061054def35b8f72"
+            "contentHash": "956b784e2382593df03d28b4061054def35b8f72",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -184,9 +184,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1505965082490,
-            "changeTime": 1505965082490,
-            "contentHash": "cf188b3fbe1116447704b6b7c8ed186afc1643ee"
+            "modifiedTime": 1505986866279,
+            "changeTime": 1505986866279,
+            "contentHash": "1b998e0fcb7ee24d255672e80c0d273232a924b7"
         }
     ],
     [
@@ -222,23 +222,62 @@
             "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\objects\\Accreditation__c\\fields\\Status__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 988,
-            "modifiedTime": 1505965082491,
-            "changeTime": 1505965082491,
-            "contentHash": "3e47fd06ac418d1139a4c1fcee13f372a437abc6"
+            "size": 1166,
+            "modifiedTime": 1505986866272,
+            "changeTime": 1505986866272,
+            "contentHash": "1d17ab2fce8e5d859d0256e5d88d9b05a346ebd3"
         }
     ],
     [
         "C:\\dev\\DXTrial\\force-app\\main\\default\\objects\\Accreditation__c\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\objects\\Accreditation__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1505965082490,
             "changeTime": 1505965082490,
-            "contentHash": "7546daeafe8869d18b37d2b8437a616c539efbd2"
+            "contentHash": "7546daeafe8869d18b37d2b8437a616c539efbd2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default\\objects\\Accreditation__c\\recordTypes\\Company.recordType-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\objects\\Accreditation__c\\recordTypes\\Company.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 630,
+            "modifiedTime": 1505986866280,
+            "changeTime": 1505986866280,
+            "contentHash": "fb970e2ae4c094ec3d2c7aa7cdc20acec02bc093"
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default\\objects\\Accreditation__c\\recordTypes\\Industry.recordType-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\objects\\Accreditation__c\\recordTypes\\Industry.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 750,
+            "modifiedTime": 1505986866281,
+            "changeTime": 1505986866281,
+            "contentHash": "0f6f3a74dc4e8ac41b7d788e181714496032203c"
+        }
+    ],
+    [
+        "C:\\dev\\DXTrial\\force-app\\main\\default\\objects\\Accreditation__c\\recordTypes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\dev\\DXTrial\\force-app\\main\\default\\objects\\Accreditation__c\\recordTypes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1505986866281,
+            "changeTime": 1505986866281,
+            "contentHash": "3a8d99849d1fbc05f4523e26ec2fb52f829ac5a1"
         }
     ]
 ]
